@@ -1,4 +1,4 @@
 # JSON & AJAX AND ANGULAR PROJECT DOCUMENTATION
 ## JSON & AJAX 
-- [Table](#table.txt)
+- [Table](table.txt)
 
