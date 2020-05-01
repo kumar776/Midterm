@@ -2,6 +2,7 @@
 ## JSON & AJAX 
 - [Table](#table)
 # Table
+
 <table class="table table-hover">
             <thead>
                 <tr>
