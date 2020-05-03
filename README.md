@@ -12,7 +12,7 @@ JavaScript Object Notation is an open standard file format, and data interchange
             and array data types.If you want to see complete website code click this link [Complete Code](Lab6.txt)
 
 ### Create Operation:
-First we create the website front hand profile and its instruments like table, form, 
+First create the website front hand profile and its instruments like table, form, 
                     buttons and complete font hand. Here you can see my website fronthand and 
 click this link to see its code [Create Code](create.txt)
 
@@ -55,7 +55,9 @@ AngularJS is a structural framework for dynamic web applications. It lets you us
 extend HTML's syntax to express your application components clearly and succinctly. Its data binding and dependency injection 
 eliminate much of the code you currently have to write.
 ### Create:
-Angular is quit easy to SJON.
+Angular is quit easy to SJON. First create the website front hand profile and its instruments like table, form, 
+                    buttons and complete font hand.Here you can see my website fronthand complete code just 
+click this link to see [Angular Code](Angular.txt)
 
 
 
