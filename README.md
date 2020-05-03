@@ -12,9 +12,10 @@
             and array data types
 
 ### Create Operation:
-                    First we create table and add some field like (id,name,age,cnic,height) 
+                    First we create the website front hand profile and its instruments like table, form, 
+                    buttons and complete font hand. Here you can see my website fronthand
 
-![](table.PNG)
+![](fronthand.PNG)
 
 
 
