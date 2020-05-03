@@ -9,7 +9,7 @@
 ### Defintion:
 JavaScript Object Notation is an open standard file format, and data interchange  format, that
             uses human-readable text to store and transmit data objects consisting of attribute–value pairs
-            and array data types
+            and array data types.click this link to see its code [Complete CRUD Opertaion Code](Lab6.txt)
 
 ### Create Operation:
 First we create the website front hand profile and its instruments like table, form, 
