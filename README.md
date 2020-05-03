@@ -72,6 +72,12 @@ on it. [Insert Code](inserta.txt)
 ![](inserta.PNG)
 
 
+### Delete:
+If any enployee want to leave the company and company owner want to delete the record of the enployee just see the below how to
+delete record. [Delete Code](deletea.txt)
+
+![](deletea.PNG)
+
 
 
 
