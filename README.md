@@ -14,7 +14,7 @@ JavaScript Object Notation is an open standard file format, and data interchange
 ### Create Operation:
 First we create the website front hand profile and its instruments like table, form, 
                     buttons and complete font hand. Here you can see my website fronthand and 
-click this link to see its code [I'm an inline-style link](https://www.google.com)
+click this link to see its code [Create](create.txt)
                    
 
 ![](fronthand.PNG)
