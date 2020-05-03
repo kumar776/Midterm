@@ -45,6 +45,7 @@ the data. Click this link and see its code [delete Code](delete.txt). Just click
 # ANGULAR CRUD
 ## Table of Content
 -    Definition
+-    Controller
 -    Create
 -    Update
 -    Insert
@@ -54,6 +55,10 @@ the data. Click this link and see its code [delete Code](delete.txt). Just click
 AngularJS is a structural framework for dynamic web applications. It lets you use HTML as your template language and lets you 
 extend HTML's syntax to express your application components clearly and succinctly. Its data binding and dependency injection 
 eliminate much of the code you currently have to write.
+
+### Controller:
+A controller is defined using ng-controller directive. A controller is a JavaScript object that contains attributes/properties, and functions. ... The property fullName is the function of $scope.
+
 ### Create:
 Angular is quit easy to SJON. First create the website front hand profile and its instruments like table, form, 
                     buttons and complete font hand.Here you can see my website fronthand complete code just 
