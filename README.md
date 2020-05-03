@@ -74,7 +74,7 @@ on it. [Insert Code](inserta.txt)
 
 ### Delete:
 If any enployee want to leave the company and company owner want to delete the record of the enployee just see the below how to
-delete record. [Delete Code](deletea.txt)
+delete record. [Delete Code](deletea.txt) just click on Delete button.
 
 ![](deletea.PNG)
 
