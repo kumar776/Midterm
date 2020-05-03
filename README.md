@@ -65,9 +65,11 @@ just click on Update button
 
 ![](updatea.PNG)
 
+### Insert:
+When a person comes to your company and join it then you want to enter that person record open website and insert the data
+on it. [Insert Code](inserta.txt)
 
-
-
+![](inserta.PNG)
 
 
 
