@@ -57,7 +57,7 @@ eliminate much of the code you currently have to write.
 ### Create:
 Angular is quit easy to SJON. First create the website front hand profile and its instruments like table, form, 
                     buttons and complete font hand.Here you can see my website fronthand complete code just 
-click this link to see [Angular Code](Angular.txt)
+click this link to see [Angular Code](Angular.html)
 
 
 
