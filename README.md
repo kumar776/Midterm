@@ -35,7 +35,7 @@ add / insert the data. Click this link and see its code [Insert Code](insert.txt
 
 ### Delete:
 If someone leave you company and you want to remove / delete the data of that person just open the profile of person and delete 
-the data. Click this link and see its code [delete Code](delete.txt). Just click on dalete button.
+the data. Click this link and see its code [delete Code](delete.txt). Just click on delete button.
 
 
 ![](delete.PNG)
@@ -44,5 +44,26 @@ the data. Click this link and see its code [delete Code](delete.txt). Just click
 
 # ANGULAR CRUD
 ## Table of Content
+-    Definition
+-    Create
+-    Update
+-    Insert
+-    Delete
+
+### Definition:
+AngularJS is a structural framework for dynamic web applications. It lets you use HTML as your template language and lets you 
+extend HTML's syntax to express your application components clearly and succinctly. Its data binding and dependency injection 
+eliminate much of the code you currently have to write.
+### Create:
+Angular is quit easy to SJON.
+
+
+
+
+
+
+
+
+
 
 
