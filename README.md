@@ -13,7 +13,8 @@
 
 ### Create Operation:
                     First we create the website front hand profile and its instruments like table, form, 
-                    buttons and complete font hand. Here you can see my website fronthand and here [Create](create.txt) is code
+                    buttons and complete font hand. Here you can see my website fronthand and click this 
+                    link to see its code [I'm an inline-style link](https://www.google.com).
 
 ![](fronthand.PNG)
 
