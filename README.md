@@ -59,6 +59,9 @@ Angular is quit easy to SJON. First create the website front hand profile and it
                     buttons and complete font hand.Here you can see my website fronthand complete code just 
 click this link to see [Angular Code](Angular.html)
 
+### Update:
+If you want to update any person data just open its form and update it. Click to see update code [Update Code](updatea.txt)
+![](updatea.PNG)
 
 
 
