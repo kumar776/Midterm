@@ -15,6 +15,8 @@ JavaScript Object Notation is an open standard file format, and data interchange
 First we create the website front hand profile and its instruments like table, form, 
                     buttons and complete font hand. Here you can see my website fronthand and 
 click this link to see its code [Create Code](create.txt)
+
+
 ![](fronthand.PNG)
 
 ### Update:
@@ -22,16 +24,19 @@ When you have to be done fronthand section then you appling CURD operation on th
 your website and you want to update person's data you just open your web page and update as you want. You can see below the 
 updating. Click this link and see its code [Update Code](updating.txt)
 
+
 ![](update.PNG)
 ### Insertion:
 If you want to add data on your website any person you just insert the data on the field. You just see the below how to 
 add / insert the data. Click this link and see its code [Insert Code](insert.txt)
+
 
 ![](insert.PNG)
 
 ### Delete:
 If someone leave you company and you want to remove / delete the data of that person just open the profile of person and delete 
 the data. Click this link and see its code [delete Code](delete.txt). Just click on dalete button.
+
 
 ![](delete.PNG)
 
