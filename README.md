@@ -14,7 +14,7 @@
 ### Create Operation:
                     First we create table and add some field like (id,name,age,cnic,height) 
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![](table.PNG)
 
 
 
