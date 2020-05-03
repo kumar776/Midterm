@@ -40,14 +40,9 @@ the data. Click this link and see its code [delete Code](delete.txt). Just click
 
 ![](delete.PNG)
 
+------------------------------------------------
 
-
-
-
-
-
-
-## ANGULAR CRUD
-
+# ANGULAR CRUD
+## Table of Content
 
 
